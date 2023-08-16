@@ -1,4 +1,4 @@
-![Screenshot #1](https://cdn.discordapp.com/attachments/1091794618229719201/1141294349506838551/AdvancedMinecraftServerStartup.png)
+![1](https://cdn.discordapp.com/attachments/1091794618229719201/1141294349506838551/AdvancedMinecraftServerStartup.png)
 # Advanced Minecraft server startup
 
 Click [HERE](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for a tutorial!
