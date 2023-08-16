@@ -1,4 +1,4 @@
-[![Logo](https://cdn.discordapp.com/attachments/1091794618229719201/1141294349506838551/AdvancedMinecraftServerStartup.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![](https://cdn.discordapp.com/attachments/1091794618229719201/1141294349506838551/AdvancedMinecraftServerStartup.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # Advanced Minecraft server startup
 
 Click on the banner for a tutorial!
